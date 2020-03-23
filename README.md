@@ -1,3 +1,2 @@
 # hello_world
-kundan is here what is going on 
-jjust learning about github
+https://www.edureka.co/blog/interview-questions/git-interview-questions/
